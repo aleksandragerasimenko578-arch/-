@@ -1,7 +1,7 @@
 [torty-final.html](https://github.com/user-attachments/files/28401798/torty-final.html)
 # -<!DOCTYPE html>
 <html lang="uk">
-<head>
+<head> Торти
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Торти</title>
